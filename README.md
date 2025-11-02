@@ -19,8 +19,11 @@ El sistema está dividido en tres módulos principales:
 
   - 
     <img src="Img_Video/Imagen_capturada_1.jpg" alt="Descripción de la imagen" width="400"/>
+    
     <img src="Img_Video/Imagen_capturada_3.jpg" alt="Descripción de la imagen" width="400"/>
+    
     <img src="Img_Video/Imagen_capturada_4.jpg" alt="Descripción de la imagen" width="400"/>
+    
     <img src="Img_Video/PrototipoV2.jpg" alt="Descripción de la imagen" width="400"/>
 
 ---
