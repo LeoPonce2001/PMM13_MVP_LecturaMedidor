@@ -18,8 +18,9 @@ El sistema está dividido en tres módulos principales:
   - Conectividad Wi-Fi para envío de imágenes a la Raspberry Pi.
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="Img_Video/Imagen_capturada_1.jpg" alt="Captura imagen medidor" width="400"/>
- <img src="Img_Video/PrototipoV2.jpg" alt="Producto en terreno" width="400" height="300"/>
-  <img src="Img_Video/Imagen_capturada_3.jpg" alt="Producto en terreno" width="400" height="300"/>
+  <img src="Img_Video/PrototipoV2.jpg" alt="Producto en terreno" width="400" height="300"/>
+  <img src="Img_Video/Implementacion_3.jpg" alt="Producto en terreno" width="400">
+  <img src="Img_Video/Implementacion_3.jpg" alt="Producto en terreno" width="400"/>
 </div>
 
 ---
