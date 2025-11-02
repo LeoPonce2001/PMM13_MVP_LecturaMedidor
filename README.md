@@ -16,7 +16,7 @@ El sistema está dividido en tres módulos principales:
   - Montaje en tubo PVC 110 mm con tapa removible.  
   - Flash interno como fuente de iluminación.  
   - Conectividad Wi-Fi para envío de imágenes a la Raspberry Pi.
-    ![Descripción de la imagen](Img_Video/Imagen_capturada_1.jpg)
+    <img src="Img_Video/Imagen_capturada_1.jpg" alt="Descripción de la imagen" width="400"/>
 
 ---
 
