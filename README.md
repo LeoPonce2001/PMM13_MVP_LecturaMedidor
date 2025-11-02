@@ -19,7 +19,7 @@ El sistema está dividido en tres módulos principales:
 
 ---
 
-## 🖥️ Procesamiento Local (Raspberry Pi 4)
+## Procesamiento Local (Raspberry Pi 4)
 - Recepción de imágenes vía **HTTPS**.  
 - Inferencia mediante **modelo TFLite** basado en [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device).  
 - Detección de dígitos y lectura de agujas rojas (HSV).  
@@ -27,7 +27,7 @@ El sistema está dividido en tres módulos principales:
 
 ---
 
-## ☁️ Envío a la Nube (AWS IoT Core)
+## Envío a la Nube (AWS IoT Core)
 - Transmisión de datos vía **MQTT** hacia **AWS IoT Core**.  
 - Envío tras completar 10 lecturas consecutivas VALIDAS.  
 - Formato de mensaje JSON:
