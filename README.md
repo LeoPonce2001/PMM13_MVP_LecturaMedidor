@@ -1,4 +1,4 @@
-# PMM13_MVP_LecturaMedidor 💧 Proyecto de Lectura Automática de Medidores de Agua
+# 💧 PMM13_MVP_LecturaMedidor proyecto de Lectura Automática de Medidores de Agua
 ## Leonardo Ponce Toledo
 
 ## Descripción
