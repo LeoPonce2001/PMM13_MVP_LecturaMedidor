@@ -30,7 +30,7 @@ El sistema está dividido en tres módulos principales:
 - Inferencia mediante **modelo TFLite** basado en [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device).  
 - Detección de dígitos y lectura de agujas rojas (HSV).  
 - Conversión de los resultados en un archivo temporal `Lecturas.json`.
-
+- Los códigos están disponibles en la carpeta [ProcesamientoImagenes](ProcesamientoImagenes/).
 ---
 
 ## Envío a la Nube (AWS IoT Core)
@@ -41,3 +41,4 @@ El sistema está dividido en tres módulos principales:
     "fecha_hora": "2025-10-31 18:29:37",
     "display": 3487710.534968271
   }
+-Los códigos están disponibles en la carpeta [ProcesamientoImagenes](ProcesamientoImagenes/).
