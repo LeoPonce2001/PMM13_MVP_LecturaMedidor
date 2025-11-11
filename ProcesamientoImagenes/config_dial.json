@@ -1,0 +1,30 @@
+{
+    "centro": [
+        642,
+        665
+    ],
+    "radio": 130,
+    "angulo_cero": 95.22819188527234,
+    "angulo_uno": 62.35402463626133,
+    "total_numeros": 10,
+    "amount": 0.0001,
+    "sentido": "CW",
+    "hsv_ranges": {
+        "range1": {
+            "h_min": 2,
+            "s_min": 35,
+            "v_min": 125,
+            "h_max": 27,
+            "s_max": 179,
+            "v_max": 227
+        },
+        "range2": {
+            "h_min": 0,
+            "s_min": 35,
+            "v_min": 125,
+            "h_max": 0,
+            "s_max": 179,
+            "v_max": 227
+        }
+    }
+}
