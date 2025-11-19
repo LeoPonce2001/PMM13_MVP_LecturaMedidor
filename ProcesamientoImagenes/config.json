@@ -1,0 +1,67 @@
+{
+  "debug": true,
+
+"dial_amount": 0.0001,
+
+"tracking": {
+  "fsm_enabled": true,
+  "fsm_cont_enter_ms": 900,
+  "fsm_cont_exit_ms": 1500,
+  "fsm_window": 3,
+  "fsm_min_conf": 0.98,
+
+  "digit_driven_mode": true,
+  "gated_rollover_by_ocr": true,
+  "assist_rollover_near_zero": true,
+  "assist_eps_low": 0.5,
+  "assist_eps_high": 0.5,
+  "max_digit_jump": 1,
+  "conf_min": 0.90,
+  "fast_accept_conf": 0.995,
+  "dial_deadband": 0.15,
+  "rollback_window": 2,
+  "add_dial_to_display": true
+},
+  "digits": [
+    {
+            "name": "d1",
+            "points": [[301, 91], [364, 98], [358, 169], [295, 168]],
+            "amount": 10000
+        },
+        {
+            "name": "d2",
+            "points": [[379, 99], [450, 100], [441, 177], [377, 172]],
+            "amount": 1000
+        },
+        {
+            "name": "d3",
+            "points": [[463, 107], [524, 113], [519, 185], [456, 180]],
+            "amount": 100
+        },
+        {
+            "name": "d4",
+            "points": [[541, 116], [609, 119], [605, 190], [532, 184]],
+            "amount": 10
+        },
+        {
+            "name": "d5",
+            "points":[[627, 122], [693, 125], [687, 198], [620, 189]],
+            "amount": 1
+        },
+        {
+            "name": "d6",
+            "points":[[703, 126], [762, 131], [757, 198], [697, 194]],
+            "amount": 0.1
+        },
+        {
+            "name": "d7",
+            "points":[[660, 299], [696, 297], [706, 356], [656, 358]],
+            "amount": 0.01
+        },
+        {
+          "name": "d8",
+          "points": [[734, 286],[782, 286],[782, 349],[737, 349]],
+          "amount": 0.001
+        }
+  ]
+}
