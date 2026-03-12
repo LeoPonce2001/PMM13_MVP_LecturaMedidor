@@ -1,0 +1,4 @@
+Imagen: 5.png
+Fecha/hora test: 2025-12-04 20:27:39
+prev_value (entrada): 4.662125
+valor_actual (salida determineNeedle): 5.662885

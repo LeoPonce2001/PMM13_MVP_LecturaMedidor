@@ -1,0 +1,39 @@
+{
+  "digits": {
+    "d1": 0,
+    "d2": 3,
+    "d3": 4,
+    "d4": 9,
+    "d5": 7,
+    "d6": 0,
+    "d7": 3,
+    "d8": 4
+  },
+  "stable_counts": {
+    "d1": 0,
+    "d2": 0,
+    "d3": 0,
+    "d4": 0,
+    "d5": 0,
+    "d6": 0,
+    "d7": 0,
+    "d8": 2
+  },
+  "last_timestamp": "2025-12-13T17:58:34",
+  "just_incremented": {
+    "d1": false,
+    "d2": false,
+    "d3": false,
+    "d4": false,
+    "d5": false,
+    "d6": false,
+    "d7": false,
+    "d8": false
+  },
+  "dial_roi_ahash": 9259648090324922608,
+  "dial_phase_shown": 3.2535973455069085,
+  "wrap_pending_frames": 0,
+  "total_litros": 3497034.3253597347,
+  "dial_zero_lock_active": false,
+  "dial_zero_lock_until": "2025-12-13T14:29:16.326009"
+}

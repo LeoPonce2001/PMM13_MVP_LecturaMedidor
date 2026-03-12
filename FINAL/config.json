@@ -1,0 +1,103 @@
+{
+"debug": true,
+
+"dial_amount": 0.0001,
+
+"tracking": {
+    "max_digit_jump": 1,        
+    "conf_min": 0.85,           
+    "fast_accept_conf": 0.97,   
+    "resync_frames": 3,         
+    "resync_conf_min": 0.90,    
+    "stable_count_threshold": 2,
+    "dial_deadband": 0.01,      
+    "max_dial_step": 2.0,       
+    "add_dial_to_display": true,
+    "dial_zero_hold_s": 3.0
+},
+
+  "camera": {
+    "url": "http://192.168.1.177/capture",
+    "retry_max_attempts": 2,
+    "timeout_s": 3,
+    "base_sleep": 0.5
+  },
+
+  "dial_filter": {
+    "max_flow_lps": 0.5,
+    "max_jump_base": 0.5,
+    "jump_margin_factor": 1.2
+  }
+,
+
+    "centro": [
+        595,
+        591
+    ],
+    "radio": 82,
+    "angulo_cero": 94.93921554212619,
+    "angulo_uno": 56.1130405359483,
+    "total_numeros": 10,
+    "sentido": "CW",
+    "hsv_ranges": {
+        "range1": {
+            "h_min": 0,
+            "s_min": 66,
+            "v_min": 29,
+            "h_max": 25,
+            "s_max": 145,
+            "v_max": 172
+        },
+        "range2": {
+            "h_min": 0,
+            "s_min": 66,
+            "v_min": 29,
+            "h_max": 0,
+            "s_max": 145,
+            "v_max": 172
+        }
+    },
+"digits": [
+    {
+            "name": "d1",
+            "points": [[301, 91], [364, 98], [358, 169], [295, 168]],
+            "amount": 10000
+        },
+        {
+            "name": "d2",
+            "points": [[379, 99], [450, 100], [441, 177], [377, 172]],
+            "amount": 1000
+        },
+        {
+            "name": "d3",
+            "points": [[463, 107], [524, 113], [519, 185], [456, 180]],
+            "amount": 100
+        },
+        {
+            "name": "d4",
+            "points": [[541, 116], [609, 119], [605, 190], [532, 184]],
+            "amount": 10
+        },
+        {
+            "name": "d5",
+            "points":[[627, 122], [693, 125], [687, 198], [620, 189]],
+            "amount": 1
+        },
+        {
+            "name": "d6",
+            "points":[[703, 126], [762, 131], [757, 198], [697, 194]],
+            "amount": 0.1
+        },
+        {
+            "name": "d7",
+            "points":[[660, 299], [696, 297], [706, 356], [656, 358]],
+            "amount": 0.01
+        },
+        {
+          "name": "d8",
+          "points": [[653, 206],[707, 205],[710, 270],[657, 271]],
+          "amount": 0.001
+        }
+  ]
+  
+}
